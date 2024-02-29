@@ -18,3 +18,4 @@ AI 图片生成器，根据输入的 prompt 自动生成图片
 ![Alt text](nevercb_home.png)
 Post 页:
 ![Alt text](nevercb_createpost.png)
+1
